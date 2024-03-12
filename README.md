@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaceyMurimi
 - 👀 I’m interested in Programming and Embedded Systems
-- 🌱 I’m currently learning University Of Nairobi, Kenya.
+- 🌱 I’m currently learning at University Of Nairobi, Kenya.
 - 📫 How to reach me mercymurimi01@gmail.com
 - 😄 Pronouns: she/her
 
